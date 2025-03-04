@@ -28,3 +28,4 @@
 - Allows users to disconnect without crashing the server. **
 
 OUTPUT-
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/8b5e8236-d28a-44ba-a373-b22d00b98a72" />
